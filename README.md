@@ -1,4 +1,4 @@
-# Net::Ldap::AuthAdapter::Gssapi
+# Net::LDAP::AuthAdapter::GSSAPI
 
 This gem can be used with the net-ldap gem to perform GSSAPI authentication (which almost always means Kerberos authentication).
 
